@@ -1,4 +1,4 @@
-package listaPOO1;
+package listaPOO;
 
 public class Patinete {
 
